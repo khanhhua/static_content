@@ -1,4 +1,4 @@
-Instruction
+Static Content with NodeJS
 ====
 
 Guide
